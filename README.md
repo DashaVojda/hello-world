@@ -1,2 +1,3 @@
 # hello-world
-just my first repository
+Hi. 
+I study git. And I like it.
